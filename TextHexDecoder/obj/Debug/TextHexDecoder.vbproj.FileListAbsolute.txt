@@ -1,0 +1,12 @@
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.exe
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.pdb
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.xml
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Form1.resources
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Resources.resources
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.vbproj.GenerateResource.Cache
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.exe
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.xml
+c:\users\cloud\documents\visual studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.vbprojResolveAssemblyReference.cache
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.About.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Guide.resources

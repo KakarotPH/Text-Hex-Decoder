@@ -1,0 +1,12 @@
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.exe
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\bin\Debug\TextHexDecoder.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.About.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Form1.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Guide.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.Resources.resources
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\Text Hex Decoder.vbproj.GenerateResource.Cache
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.exe
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.xml
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.pdb
+C:\Users\Cloud\Documents\Visual Studio 2013\Projects\TextHexDecoder\TextHexDecoder\obj\Debug\TextHexDecoder.SplashScreen.resources
